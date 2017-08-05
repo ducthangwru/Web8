@@ -1,7 +1,25 @@
 var Nakama = {};
 Nakama.configs = {
   GAME_WIDTH : 640,
-  GAME_HEIGHT : 960
+  GAME_HEIGHT : 960,
+  ENEMY_POSITION : {
+    x : 200,
+    y : 200,
+    velocity : 200
+  },
+  BACKGROUND_POSITION : {
+    x : 0,
+    y : -960,
+    velocity : 5
+  },
+  P1_START_POSITION : {
+    x : 200,
+    y : 600,
+  },
+  P2_START_POSITION : {
+    x : 400,
+    y : 600,
+  }
 };
 
 window.onload = function(){
@@ -38,41 +56,64 @@ var create = function(){
   Nakama.game.physics.startSystem(Phaser.Physics.ARCADE);
   Nakama.keyboard = Nakama.game.input.keyboard;
 
-  Nakama.background = Nakama.game.add.sprite(0, -960, 'background');
+  Nakama.background = Nakama.game.add.sprite(Nakama.configs.BACKGROUND_POSITION.x, Nakama.configs.BACKGROUND_POSITION.y, 'background');
+  Nakama.bulletGroup = Nakama.game.add.physicsGroup();
+  Nakama.playerGroup = Nakama.game.add.physicsGroup();
+  Nakama.enemyGroup = Nakama.game.add.physicsGroup();
 
+  Nakama.sprites = [];
   Nakama.players = [];
 
-  Nakama.players.push(
-    new ShipController(200, 600, 'Spaceship1-Player.png',
+  Nakama.sprites.push(
+    new EnemyController(Nakama.configs.ENEMY_POSITION.x, Nakama.configs.ENEMY_POSITION.y, 'EnemyType3.png',
     {
-      UP : Phaser.Keyboard.UP,
-      DOWN : Phaser.Keyboard.DOWN,
-      LEFT : Phaser.Keyboard.LEFT,
-      RIGHT : Phaser.Keyboard.RIGHT,
-      FIRE : Phaser.Keyboard.SPACEBAR
+      health : 5
+    })
+  );
+
+  Nakama.players.push(
+    new ShipType1Controller(Nakama.configs.P1_START_POSITION.x, Nakama.configs.P1_START_POSITION.y, '-Player',
+    {
+      up : Phaser.Keyboard.UP,
+      down : Phaser.Keyboard.DOWN,
+      left : Phaser.Keyboard.LEFT,
+      right : Phaser.Keyboard.RIGHT,
+      fire : Phaser.Keyboard.SPACEBAR
     }
   )
 );
 
-  Nakama.players.push(new ShipController(400, 600, 'Spaceship1-Partner.png',
+  Nakama.players.push(
+    new ShipType2Controller(Nakama.configs.P2_START_POSITION.x, Nakama.configs.P2_START_POSITION.y, '-Partner',
   {
-    UP : Phaser.Keyboard.W,
-    DOWN : Phaser.Keyboard.S,
-    LEFT : Phaser.Keyboard.A,
-    RIGHT : Phaser.Keyboard.D,
-    FIRE : Phaser.Keyboard.F
+    up : Phaser.Keyboard.W,
+    down : Phaser.Keyboard.S,
+    left : Phaser.Keyboard.A,
+    right : Phaser.Keyboard.D,
+    fire : Phaser.Keyboard.F
   }
 ));
 }
 
 // update game state each frame
 var update = function(){
-  Nakama.background.position.y += 5;
+  Nakama.background.position.y += Nakama.configs.BACKGROUND_POSITION.velocity;
 
   if(Nakama.background.position.y >= 0) {
-    Nakama.background.position.y = -960;
+    Nakama.background.position.y = Nakama.configs.BACKGROUND_POSITION.y;
   }
+
+  Nakama.game.physics.arcade.overlap(
+    Nakama.bulletGroup,
+    Nakama.enemyGroup,
+    onBulletHitEnemy
+  );
 }
 
 // before camera render (mostly for debug)
 var render = function(){}
+
+var onBulletHitEnemy = function (bulletSprite, enemySprite) {
+  bulletSprite.kill();
+  enemySprite.damage(1);
+}

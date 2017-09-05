@@ -1,41 +1,32 @@
 const express = require('express');
-const fileController = require('./fileController.js');
+const handlebars = require('express-handlebars');
+const bodyParser = require('body-parser');
+const fileController = require('./fileController');
+const homeRouter = require('./HomeRouter');
+const askRouter = require('./AskQuestionRouter');
+const utilsRouter = require('./UtilsRouter');
+const questionRouter = require('./questionRouter');
 
 let app = express();
 
+app.engine('handlebars', handlebars({defaultLayout: 'main'}));
+app.set('view engine', 'handlebars');
+app.use(bodyParser.urlencoded({ extended: true}));
 app.use(express.static(__dirname + '/public'));
+app.use('/', homeRouter);
+app.use('/ask', askRouter);
+app.use('/api', utilsRouter);
+app.use('/question', questionRouter);
 
-app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/public/menu.html');
+app.get('/About', (req, res) => {
+    res.render('about');
 });
 
-app.get('/about', (req, res) => {
-  res.sendFile(__dirname + '/public/about.html');
-});
-
-app.get('/readfile', (req, res) => {
-  var data = fileController.readFileSync('test.txt');
-  res.send(`<html>
-    <head> <meta charset="utf-8">
-    <title></title>
-    <link rel="stylesheet" href="stylemenu.css">
-   </head>
-   <body>
-    <nav class="menu">
-    <span onclick="location='menu.html'">Trang Chủ</span>
-    <span onclick="location='about.html'">About</span>
-    <span onclick="location='readfile'">Đọc File</span>
-    <span>Menu 4</span>
-    </nav>
-    <h1> ${data} </h1>
-    </body>
-    </html>`);
-});
-
-app.get('/style.css', (req, res) => {
-  res.sendFile(__dirname + '/public/style.css');
+app.get('/File', (req, res) => {
+    let textRender = fileController.readFileSync('test.txt');
+res.render('questions', {textRender});
 });
 
 app.listen(6969, () => {
-  console.log('Server is up');
+    console.log('Server is ready');
 });

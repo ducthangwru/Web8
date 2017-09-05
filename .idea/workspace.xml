@@ -2,8 +2,967 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10fbeab5-fce9-40d1-9a7d-c44365f20f8a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SaaS/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/AskQuestionRouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/UtilsRouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/css/homestyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/homeRouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/.bin/handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/.bin/handlebars.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/.bin/uglifyjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/.bin/uglifyjs.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/align-text/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/align-text/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/align-text/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/align-text/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/amdefine/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/amdefine/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/amdefine/amdefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/amdefine/intercept.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/amdefine/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/asap/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/asap/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/asap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/asap/asap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/asap/browser-asap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/asap/browser-raw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/asap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/asap/raw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/async/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/async/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/async/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/async/dist/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/async/dist/async.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/async/lib/async.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/async/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/balanced-match/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/balanced-match/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/balanced-match/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/balanced-match/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/balanced-match/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/lib/read.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/lib/types/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/lib/types/raw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/lib/types/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/lib/types/urlencoded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/src/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/.jscs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/dist/qs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/test/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/brace-expansion/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/brace-expansion/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/brace-expansion/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/bytes/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/bytes/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/bytes/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/bytes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/bytes/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/camelcase/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/camelcase/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/camelcase/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/camelcase/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/center-align/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/center-align/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/center-align/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/center-align/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/center-align/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/node_modules/wordwrap/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/node_modules/wordwrap/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/node_modules/wordwrap/example/center.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/node_modules/wordwrap/example/meat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/node_modules/wordwrap/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/node_modules/wordwrap/test/break.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/node_modules/wordwrap/test/idleness.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/node_modules/wordwrap/test/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/cliui/test/cliui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/concat-map/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/concat-map/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/concat-map/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/concat-map/example/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/concat-map/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/concat-map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/concat-map/test/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/decamelize/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/decamelize/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/decamelize/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/decamelize/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/define-properties/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/define-properties/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/define-properties/.jscs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/define-properties/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/define-properties/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/define-properties/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/define-properties/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/define-properties/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/define-properties/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/define-properties/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/define-properties/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/.idea/express-handlebars.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/.idea/libraries/express_handlebars_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/lib/express-handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express-handlebars/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/foreach/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/foreach/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/foreach/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/foreach/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/foreach/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/foreach/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/foreach/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/foreach/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/function-bind/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/function-bind/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/function-bind/.jscs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/function-bind/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/function-bind/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/function-bind/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/function-bind/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/function-bind/implementation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/function-bind/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/function-bind/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/function-bind/test/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/function-bind/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/glob/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/glob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/glob/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/glob/glob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/glob/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/glob/sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/graceful-fs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/graceful-fs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/graceful-fs/fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/graceful-fs/graceful-fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/graceful-fs/legacy-streams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/graceful-fs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/graceful-fs/polyfills.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.idea/handlebars.js.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.istanbul.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/FAQ.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/bin/handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars.runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/compiler/ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/compiler/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/compiler/code-gen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/compiler/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/compiler/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/compiler/javascript-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/compiler/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/compiler/printer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/compiler/visitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/compiler/whitespace-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/decorators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/decorators/inline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/exception.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/helpers/block-helper-missing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/helpers/each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/helpers/helper-missing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/helpers/if.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/helpers/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/helpers/lookup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/helpers/with.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/no-conflict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/safe-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/handlebars/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/amd/precompiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars.runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/compiler/ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/compiler/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/compiler/code-gen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/compiler/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/compiler/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/compiler/javascript-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/compiler/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/compiler/printer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/compiler/visitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/compiler/whitespace-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/decorators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/decorators/inline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/exception.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/helpers/block-helper-missing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/helpers/each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/helpers/helper-missing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/helpers/if.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/helpers/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/helpers/lookup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/helpers/with.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/no-conflict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/safe-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/handlebars/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/cjs/precompiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/handlebars.amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/handlebars.amd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/handlebars.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/handlebars.runtime.amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/handlebars.runtime.amd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/handlebars.runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/dist/handlebars.runtime.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/docs/compiler-api.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/docs/decorators-api.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars.runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/compiler/ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/compiler/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/compiler/code-gen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/compiler/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/compiler/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/compiler/javascript-compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/compiler/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/compiler/printer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/compiler/visitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/compiler/whitespace-control.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/decorators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/decorators/inline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/exception.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/helpers/block-helper-missing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/helpers/each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/helpers/helper-missing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/helpers/if.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/helpers/log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/helpers/lookup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/helpers/with.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/no-conflict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/safe-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/handlebars/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/lib/precompiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/print-script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/release-notes.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/handlebars/runtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/Changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/dbcs-codec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/dbcs-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/sbcs-codec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/sbcs-data-generated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/sbcs-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/tables/big5-added.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/tables/cp936.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/tables/cp949.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/tables/cp950.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/tables/eucjp.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/tables/gbk-added.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/tables/shiftjis.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/utf16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/encodings/utf7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/lib/bom-handling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/lib/extend-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/lib/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/lib/streams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/iconv-lite/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/inflight/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/inflight/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/inflight/inflight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/inflight/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/is-buffer/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/is-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/is-buffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/is-buffer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/is-buffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/is-buffer/test/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/kind-of/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/kind-of/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/kind-of/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/kind-of/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/lazy-cache/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/lazy-cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/lazy-cache/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/lazy-cache/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/longest/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/longest/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/longest/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/longest/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimatch/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimatch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimatch/minimatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimatch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/example/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/test/bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/test/dash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/test/default_bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/test/dotted.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/test/long.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/test/num.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/test/parse_modified.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/test/short.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/minimist/test/whitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object-keys/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object-keys/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object-keys/.jscs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object-keys/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object-keys/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object-keys/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object-keys/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object-keys/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object-keys/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object-keys/isArguments.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object-keys/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object-keys/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/dist/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/hasSymbols.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/implementation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/test.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/test/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/test/native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/test/shams/core-js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/test/shams/get-own-property-symbols.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/test/shimmed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/object.assign/test/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/once/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/once/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/once/once.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/once/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/boolean_double.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/boolean_single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/default_hash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/default_singles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/divide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/line_count.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/line_count_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/line_count_wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/nonopt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/reflect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/short.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/usage-options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/example/xup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/test/_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/test/_/argv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/test/_/bin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/test/dash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/test/parse_modified.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/test/short.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/test/usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/optimist/test/whitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/path-is-absolute/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/path-is-absolute/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/path-is-absolute/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/path-is-absolute/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/domains/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/domains/done.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/domains/es6-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/domains/finally.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/domains/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/domains/node-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/domains/rejection-tracking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/domains/synchronous.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/lib/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/lib/done.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/lib/es6-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/lib/finally.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/lib/node-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/lib/rejection-tracking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/lib/synchronous.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/polyfill-done.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/setimmediate/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/setimmediate/done.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/setimmediate/es6-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/setimmediate/finally.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/setimmediate/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/setimmediate/node-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/setimmediate/rejection-tracking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/setimmediate/synchronous.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/src/done.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/src/es6-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/src/finally.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/src/node-extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/src/rejection-tracking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/promise/src/synchronous.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/raw-body/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/raw-body/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/raw-body/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/raw-body/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/raw-body/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/repeat-string/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/repeat-string/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/repeat-string/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/repeat-string/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/right-align/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/right-align/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/right-align/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/right-align/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/build/assert-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/build/mini-require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/build/prefix-source-map.jsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/build/prefix-utils.jsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/build/suffix-browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/build/suffix-source-map.jsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/build/suffix-utils.jsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/build/test-prefix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/build/test-suffix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/lib/source-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/lib/source-map/array-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/lib/source-map/base64-vlq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/lib/source-map/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/lib/source-map/binary-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/lib/source-map/mapping-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/lib/source-map/quick-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/lib/source-map/source-map-consumer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/lib/source-map/source-map-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/lib/source-map/source-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/lib/source-map/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/source-map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/bin/extract-props.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/bin/uglifyjs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/lib/ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/lib/compress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/lib/mozilla-ast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/lib/output.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/lib/propmangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/lib/scope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/lib/sourcemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/lib/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/dist/source-map.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/dist/source-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/dist/source-map.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/dist/source-map.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/lib/array-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/lib/base64-vlq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/lib/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/lib/binary-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/lib/mapping-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/lib/quick-sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/lib/source-map-consumer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/lib/source-map-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/lib/source-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/node_modules/source-map/source-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/tools/domprops.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/tools/exports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/tools/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-js/tools/props.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-to-browserify/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-to-browserify/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-to-browserify/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-to-browserify/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-to-browserify/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-to-browserify/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/uglify-to-browserify/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/window-size/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/window-size/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/window-size/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/window-size/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wordwrap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wordwrap/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wordwrap/example/center.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wordwrap/example/meat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wordwrap/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wordwrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wordwrap/test/break.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wordwrap/test/idleness.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wordwrap/test/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wrappy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wrappy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wrappy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/wrappy/wrappy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/yargs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/yargs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/yargs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/yargs/completion.sh.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/yargs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/yargs/lib/completion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/yargs/lib/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/yargs/lib/usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/yargs/lib/validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/node_modules/yargs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/questionRouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/views/addQuestion.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/views/askQuestion.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/views/home.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/views/idQuestion.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/views/layouts/main.handlebars" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HomeWork/views/questions.handlebars" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Map1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/NakamaAssets.tps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BossHealthBar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BossHealthBarBG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BossHealthBarMask.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BossType1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BossType1Wings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BottomArtwork.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BulletType1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BulletType1Upgraded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BulletType2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BulletType2Propulsory.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BulletType2Upgraded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BulletType3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/BulletType3Upgraded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/CollectibleStar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/EnemyBulletType1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/EnemyBulletType2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/EnemyBulletType3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/EnemyBulletType3Origin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/EnemyBulletType4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/EnemyType1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/EnemyType2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/EnemyType3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/EnemyType4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/EnemyType4Base.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Explode.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/PauseButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/PlayerHealthBar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/PlayerHealthBarBG.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/PlayerHealthBarMask.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-1-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-1-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-1-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-1-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-2D-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-2D-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-2D-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-2D-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-2L-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-2L-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-2L-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-2L-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-2R-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-2R-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-2R-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-2R-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-3D-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-3D-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-3D-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-3D-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-3L-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-3L-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-3L-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-3L-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-3R-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-3R-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-3R-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Propul-3R-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/ReadyButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Shield.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/ShipType3Support.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship1-Partner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship1-Player.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship1Left-Partner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship1Left-Player.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship1Right-Partner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship1Right-Player.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship2-Partner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship2-Player.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship2Left-Partner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship2Left-Player.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship2Right-Partner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship2Right-Player.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship3-Partner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship3-Player.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship3Left-Partner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship3Left-Player.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship3Right-Partner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Original Sprites/Spaceship3Right-Player.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/assets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/assets.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CI/javascript.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CI/javascript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/fileController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/.bin/mime" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/.bin/mime.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/accepts/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/accepts/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/accepts/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/accepts/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/accepts/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/array-flatten/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/array-flatten/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/array-flatten/array-flatten.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/array-flatten/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/content-disposition/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/content-disposition/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/content-disposition/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/content-disposition/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/content-disposition/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/content-type/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/content-type/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/content-type/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/content-type/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/content-type/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/cookie-signature/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/cookie-signature/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/cookie-signature/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/cookie-signature/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/cookie-signature/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/cookie/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/cookie/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/cookie/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/cookie/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/cookie/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/depd/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/depd/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/depd/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/depd/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/depd/lib/browser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/depd/lib/compat/callsite-tostring.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/depd/lib/compat/event-listener-count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/depd/lib/compat/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/depd/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/destroy/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/destroy/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/destroy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/destroy/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ee-first/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ee-first/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ee-first/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ee-first/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/encodeurl/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/encodeurl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/encodeurl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/encodeurl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/encodeurl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/escape-html/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/escape-html/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/escape-html/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/escape-html/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/etag/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/etag/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/etag/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/etag/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/etag/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/lib/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/lib/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/lib/middleware/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/lib/middleware/query.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/lib/request.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/lib/response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/lib/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/lib/router/layer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/lib/router/route.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/lib/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/express/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/finalhandler/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/finalhandler/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/finalhandler/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/finalhandler/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/finalhandler/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/forwarded/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/forwarded/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/forwarded/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/forwarded/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/forwarded/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/fresh/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/fresh/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/fresh/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/fresh/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/fresh/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/http-errors/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/http-errors/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/http-errors/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/http-errors/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/http-errors/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/inherits/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/inherits/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/inherits/inherits.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/inherits/inherits_browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/inherits/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ipaddr.js/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ipaddr.js/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ipaddr.js/Cakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ipaddr.js/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ipaddr.js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ipaddr.js/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ipaddr.js/ipaddr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ipaddr.js/lib/ipaddr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ipaddr.js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ipaddr.js/src/ipaddr.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ipaddr.js/test/ipaddr.test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/media-typer/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/media-typer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/media-typer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/media-typer/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/media-typer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/merge-descriptors/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/merge-descriptors/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/merge-descriptors/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/merge-descriptors/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/merge-descriptors/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/methods/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/methods/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/methods/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/methods/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/methods/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime-db/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime-db/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime-db/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime-db/db.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime-db/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime-db/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime-types/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime-types/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime-types/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime-types/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime-types/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime/build/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime/build/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime/mime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/mime/types.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/negotiator/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/negotiator/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/negotiator/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/negotiator/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/negotiator/lib/charset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/negotiator/lib/encoding.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/negotiator/lib/language.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/negotiator/lib/mediaType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/negotiator/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/on-finished/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/on-finished/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/on-finished/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/on-finished/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/on-finished/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/parseurl/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/parseurl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/parseurl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/parseurl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/parseurl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/path-to-regexp/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/path-to-regexp/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/path-to-regexp/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/path-to-regexp/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/path-to-regexp/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/proxy-addr/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/proxy-addr/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/proxy-addr/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/proxy-addr/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/proxy-addr/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/dist/qs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/lib/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/test/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/test/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/range-parser/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/range-parser/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/range-parser/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/range-parser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/range-parser/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/send/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/send/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/send/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/send/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/send/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/serve-static/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/serve-static/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/serve-static/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/serve-static/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/serve-static/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/setprototypeof/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/setprototypeof/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/setprototypeof/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/setprototypeof/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/statuses/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/statuses/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/statuses/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/statuses/codes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/statuses/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/statuses/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/type-is/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/type-is/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/type-is/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/type-is/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/unpipe/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/unpipe/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/unpipe/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/unpipe/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/unpipe/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/utils-merge/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/utils-merge/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/utils-merge/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/utils-merge/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/utils-merge/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/vary/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/vary/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/vary/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/vary/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/node_modules/vary/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/public/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SaaS/test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/info.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/BulletControllers/BulletController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/BulletControllers/BulletType1Controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/BulletControllers/BulletType2Controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/EnemyController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/ShipControllers/ShipController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/ShipControllers/ShipType1Controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/ShipControllers/ShipType2Controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/phaser.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWork/app.js" afterPath="$PROJECT_DIR$/HomeWork/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWork/fileController.js" afterPath="$PROJECT_DIR$/HomeWork/fileController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWork/node_modules/express/lib/application.js" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express/lib/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWork/node_modules/express/lib/response.js" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express/lib/response.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWork/node_modules/express/lib/view.js" afterPath="$PROJECT_DIR$/HomeWork/node_modules/express/lib/view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWork/package.json" afterPath="$PROJECT_DIR$/HomeWork/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HomeWork/test.txt" afterPath="$PROJECT_DIR$/HomeWork/test.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/.coveralls.yml" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/.coveralls.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/.eslintrc" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/.eslintrc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/.npmignore" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/.npmignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/.travis.yml" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/.travis.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/LICENSE" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/Makefile" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/Makefile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/README.md" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/karma.conf.js" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/karma.conf.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/node.js" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/node.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/src/debug.js" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/src/debug.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/src/index.js" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/src/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/debug/src/node.js" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/debug/src/node.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/.eslintignore" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/.eslintignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/LICENSE" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/lib/formats.js" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/lib/formats.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/lib/index.js" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/lib/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/test/.eslintrc" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/test/.eslintrc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/qs/test/index.js" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/node_modules/qs/test/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SaaS/node_modules/type-is/LICENSE" afterPath="$PROJECT_DIR$/HomeWork/node_modules/body-parser/LICENSE" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,103 +980,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EnemyController.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/EnemyController.js">
+      <file leaf-file-name="questionRouter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/questionRouter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="71" />
+            <state relative-caret-position="117">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BulletType2Controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/BulletControllers/BulletType2Controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShipController.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/ShipControllers/ShipController.js">
+      <file leaf-file-name="homeRouter.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HomeWork/homeRouter.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="22" />
+              <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShipType1Controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/ShipControllers/ShipType1Controller.js">
+      <file leaf-file-name="main.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/views/layouts/main.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BulletController.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/BulletControllers/BulletController.js">
+      <file leaf-file-name="idQuestion.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/views/idQuestion.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="questions.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/views/questions.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SaaS/index.html">
+      <file leaf-file-name="UtilsRouter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/UtilsRouter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
+      <file leaf-file-name="home.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/views/home.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2023">
-              <caret line="119" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+            <state relative-caret-position="17">
+              <caret line="1" column="43" lean-forward="false" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="javascript.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CI/javascript.html">
+      <file leaf-file-name="addQuestion.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/views/addQuestion.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="javascript.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CI/javascript.js">
+      <file leaf-file-name="askQuestion.handlebars" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/views/askQuestion.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="11" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BulletType1Controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/BulletControllers/BulletType1Controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -132,29 +1089,46 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SaaS/index.html" />
+        <option value="$PROJECT_DIR$/SaaS/viewRouter.js" />
+        <option value="$PROJECT_DIR$/SaaS/view/home.handlebars" />
+        <option value="$PROJECT_DIR$/SaaS/view/layouts/main.handlebars" />
+        <option value="$PROJECT_DIR$/SaaS/views/addQuestion.handlebars" />
+        <option value="$PROJECT_DIR$/SaaS/views/layouts/main.handlebars" />
+        <option value="$PROJECT_DIR$/SaaS/server.js" />
+        <option value="$PROJECT_DIR$/SaaS/questionRouter.js" />
+        <option value="$PROJECT_DIR$/HomeWork/views/idQuestion.handlebars" />
+        <option value="$PROJECT_DIR$/HomeWork/views/questions.handlebars" />
+        <option value="$PROJECT_DIR$/HomeWork/AskQuestionRouter.js" />
+        <option value="$PROJECT_DIR$/HomeWork/test.txt" />
+        <option value="$PROJECT_DIR$/HomeWork/UtilsRouter.js" />
+        <option value="$PROJECT_DIR$/HomeWork/fileController.js" />
+        <option value="$PROJECT_DIR$/HomeWork/views/layouts/main.handlebars" />
+        <option value="$PROJECT_DIR$/HomeWork/css/homestyle.css" />
+        <option value="$PROJECT_DIR$/HomeWork/questionRouter.js" />
+        <option value="$PROJECT_DIR$/HomeWork/views/home.handlebars" />
+        <option value="$PROJECT_DIR$/HomeWork/views/askQuestion.handlebars" />
+        <option value="$PROJECT_DIR$/HomeWork/package.json" />
+        <option value="$PROJECT_DIR$/HomeWork/app.js" />
+        <option value="$PROJECT_DIR$/HomeWork/homeRouter.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <gulpfiles>
-      <GulpfileState>
-        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
-      </GulpfileState>
-    </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/HomeWork/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="55" />
     <option name="width" value="1318" />
-    <option name="height" value="775" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -171,7 +1145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,18 +1156,8 @@
               <option name="myItemId" value="Web8" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Web8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Web8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SaaS" />
+              <option name="myItemId" value="HomeWork" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -208,13 +1171,58 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CI" />
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,6 +1231,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Web8\HomeWork" />
+      <recent name="E:\Web8\SaaS\view" />
+      <recent name="E:\Web8\SaaS\view\layouts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,8 +1251,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="Node.js.app.js">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web8/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/SaaS">
+      <method />
+    </configuration>
+    <configuration default="false" name="questionRouter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="questionRouter.js" working-dir="$PROJECT_DIR$/HomeWork">
+      <method />
+    </configuration>
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/HomeWork">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -330,13 +1354,19 @@
       </EXTENSION>
       <method />
     </configuration>
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.server.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.questionRouter.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.app.js" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.questionRouter.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.server.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -357,11 +1387,13 @@
       <workItem from="1502285951031" duration="2263000" />
       <workItem from="1502603300596" duration="4544000" />
       <workItem from="1503491597334" duration="1125000" />
+      <workItem from="1504097042007" duration="6624000" />
+      <workItem from="1504616806889" duration="4830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12404000" />
+    <option name="totallyTimeSpent" value="23858000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,25 +1405,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="0" width="1318" height="775" extended-state="0" />
+    <frame x="55" y="0" width="1318" height="772" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2421875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -406,149 +1439,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/EnemyController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/BulletControllers/BulletType2Controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/ShipControllers/ShipController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/ShipControllers/ShipType1Controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2023">
-          <caret line="119" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CI/javascript.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CI/javascript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="11" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/assets.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/BulletControllers/BulletType1Controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/BulletControllers/BulletController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/EnemyController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/BulletControllers/BulletType2Controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/ShipControllers/ShipController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/ShipControllers/ShipType1Controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/BulletControllers/BulletController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="2" lean-forward="false" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/assets.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/assets.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Map1.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -558,7 +1448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -566,7 +1455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -574,57 +1462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="97" column="31" lean-forward="true" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/assets.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/assets.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Map1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/BulletControllers/BulletType1Controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/EnemyController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/BulletControllers/BulletController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -632,7 +1469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,7 +1476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="59" column="45" lean-forward="true" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -648,7 +1483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -656,7 +1490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -664,7 +1497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -672,7 +1504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +1511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,7 +1518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -706,7 +1535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -714,7 +1542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -722,7 +1549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -730,7 +1556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="119" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -738,7 +1563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -746,9 +1570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="11" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,7 +1577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="71" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -764,7 +1584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,22 +1591,218 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SaaS/index.html" />
     <entry file="file://$PROJECT_DIR$/js/BulletControllers/BulletController.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaaS/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaaS/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SaaS/index.html">
+    <entry file="file://$PROJECT_DIR$/SaaS/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaaS/fileController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaaS/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="50" lean-forward="false" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/public/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/public/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/public/stylemenu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/public/about.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="81" lean-forward="false" selection-start-line="0" selection-start-column="81" selection-end-line="0" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/css/homestyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="66" column="11" lean-forward="true" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/AskQuestionRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/fileController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/views/home.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="43" lean-forward="false" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/views/askQuestion.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/views/addQuestion.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/views/idQuestion.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/views/questions.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/views/layouts/main.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/UtilsRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/questionRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/homeRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding />
         </state>
       </provider>

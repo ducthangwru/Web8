@@ -1,1 +1,1 @@
-Test hihi
+{"id":0,"question":"Bạn có muốn một chiếc bánh không?","yes": "Có","no": "Không"}

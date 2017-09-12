@@ -1,6 +1,29 @@
 <title>Home</title>
-<h1 class="home question">{{question}}</h1>
-<form class="" action="{{{href}}}" method="post">
-    <input class="home yes" type="submit" name="choice" value="Yes" style="visibility: {{visibility}}">
-    <input class="home no" type="submit" name="choice" value="no" style="visibility: {{visibility}}">
-</form>
+
+<div class="row">
+    <h1 class="home question" style="display: block">{{question}}</h1>
+</div>
+
+<div class="row">
+    <form class="" action="{{{href}}}" method="post">
+        <div class="col-sm-3"> </div>
+        <div class="col-sm-3 col-centered">
+            <button class="btn btn-lg btn-primary home yes" type="button" name="choice" style="visibility: {{visibility}}"> Sai / Không / Trái </button>
+        </div>
+        <div class="col-sm-3 col-centered">
+            <button class="btn btn-lg btn-danger home no" type="button" name="choice"  style="visibility: {{visibility}}"> Đúng / Có / Phải </button>
+        </div>
+        <div class="col-sm-3"> </div>
+    </form>
+</div>
+
+<div class="row" style="margin-top: 30px">
+    <div class="col-sm-4"></div>
+    <div class="col-sm-2" style="text-align: right">
+        <button type="button" class="btn btn-default">Kết quả vote</button>
+    </div>
+    <div class="col-sm-2" style="text-align: left">
+        <button type="button" class="btn btn-default">Câu hỏi khác</button>
+    </div>
+    <div class="col-sm-4"></div>
+</div>

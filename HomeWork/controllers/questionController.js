@@ -8,7 +8,7 @@ const addNewQuestion = (question, callback) => {
         if (err) {
             console.log(err);
         } else {
-            callback(question);
+            callback(null, question);
         }
     });
 };
@@ -18,7 +18,7 @@ const answerQuestion = (questionType, callback) => {
         if (err) {
             console.log(err);
         } else {
-            callback(question);
+            callback(null, question);
         }
     });
 };
@@ -28,7 +28,7 @@ const getRandomQuestion = (callback) => {
         if (err === null) {
             if (questions.length > 0) {
                 question = questions[Math.floor((Math.random() * questions.length))];
-                callback(question);
+                callback(null, question);
             } else {
                 callback(null);
             }
@@ -43,7 +43,7 @@ const getQuestionList = (callback) => {
         if (err) {
             console.log(err);
         } else {
-            callback(questions);
+            callback(null, questions);
         }
     });
 }
@@ -53,7 +53,7 @@ const getQuestionById = (id, callback) => {
         if (err) {
             console.log(err);
         } else {
-            callback(question);
+            callback(null, question);
         }
     });
 };

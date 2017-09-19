@@ -8,14 +8,23 @@ Router.get('/', (req, res) => {
         if (err === null) {
             if (questions.length === 0) {
                 res.render('home', {
-                    question: "Không có câu hỏi nào"
+                    question: "Không có câu hỏi nào",
+                    visibility: 'hidden',
+                    nav: `/`
                 });
             } else {
                 getRandomQuestion((err, question) => {
-                    res.render('home', {
-                        question: question.question,
-                        href: `api/question/${question._id}`
-                    });
+                    if (err === null) {
+                        getRandomQuestion((err, questionRandom) => {
+                            if (err === null) {
+                                res.render('home', {
+                                    question: question.question,
+                                    href: `/api/question/${question._id}`,
+                                    nav: `/question/${questionRandom._id}`
+                                });
+                            }
+                        });
+                    }
                 });
             }
         }

@@ -9,16 +9,14 @@ Router.get('/', (req, res) => {
 })
 
 Router.get('/:id', (req, res) => {
-    getQuestionById(req.params.id, (err, question) => {
+    getQuestionById(req.params.id, (question) => {
         getRandomQuestion((newQuestion) => {
-            if (err === null) {
-                res.render('idQuestion', {
-                    question: question.question,
-                    nYes: question.yes,
-                    nNo: question.no,
-                    nav: `/question/${newQuestion._id}`
-                });
-            }
+            res.render('idQuestion', {
+                question: question.question,
+                nYes: question.yes,
+                nNo: question.no,
+                nav: `/question/${newQuestion._id}`
+            });
         });
     });
 });

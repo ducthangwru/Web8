@@ -6,8 +6,9 @@
     <div class="col-sm-2"></div>
     <div class="col-sm-8">
         <form class="form" action="/api/question"  method="post">
-            <textarea class="form-control" rows="5" id="comment"></textarea>
+            <textarea class="form-control" rows="5" id="question_tf" maxlength="200"></textarea>
         </form>
+        <p class="help-block">Còn <span id="text_counter">200</span>/200 ký tự.</p>
     </div>
     <div class="col-sm-2"></div>
 </div>
@@ -15,3 +16,15 @@
 <div class="row" style="text-align: center; margin-top: 30px">
     <button type="button" class="btn btn-primary">Gửi</button>
 </div>
+
+<script src="/ask.js"></script>
+<script>
+    $.ajax({
+        type:'get',
+        url : '/api/question/'
+    }).done((data) => {
+        $("#question").html(data.question);
+    }).fail((err) => {
+        console.log(err);
+    })
+</script>

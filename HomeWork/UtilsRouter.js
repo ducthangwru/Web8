@@ -1,45 +1,37 @@
 const express = require('express');
 const Router = express.Router();
 const fileController = require('./fileController');
+const questionController = require('./controllers/questionController.js');
 
 Router.get('/', (req, res) => {
 
 });
 
-Router.post('/question', (req, res, next) => {
-    let jsonData = {
-        id: fileController.getTotalQuestion(),
-        question: req.body.question,
-        yes: 0,
-        no: 0
-    };
+Router.get('/question', (req, res) => {
+    questionController.getRandomQuestion((err, question) => {
+        res.send(question);
+    });
+});
 
-if (fileController.getTotalQuestion() == 0) {
-    stringData = JSON.stringify(jsonData);
-} else {
-    stringData = ",\n" + JSON.stringify(jsonData);
-}
-fileController.appendFileSync('test.txt', stringData);
-res.redirect(`/question/${jsonData.id}`);
+Router.post('/question', (req, res) => {
+    questionController.addNewQuestion(req.body.question, (err, question) => {
+        if (err === null) {
+            res.redirect(`/question/${question.id}`);
+        }
+    });
 });
 
 Router.post('/question/:id', (req, res) => {
-    question = fileController.getListQuestion();
-if (req.body.choice === 'yes') {
-    question[req.params.id].yes += 1;
-} else {
-    question[req.params.id].no += 1;
-}
-let saveString = "";
-for (i = 0; i < question.length; i++) {
-    if (i == 0) {
-        saveString += JSON.stringify(question[i]);
-    } else {
-        saveString += ",\n" + JSON.stringify(question[i]);
-    }
-}
-fileController.saveFileSync('test.txt', saveString);
-res.redirect(`/question/${req.params.id}`);
+    questionController.getQuestionById(req.params.id, (err, question) => {
+        if (req.body.choice === 'yes') {
+            question.yes += 1;
+        } else {
+            question.no += 1;
+        }
+        questionController.answerQuestion(question, (err, updatedQuestion) => {
+            res.redirect(`/question/${updatedQuestion.id}`);
+        });
+    });
 });
 
 module.exports = Router;

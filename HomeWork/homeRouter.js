@@ -1,24 +1,26 @@
 const express = require('express');
-const fileController = require('./fileController');
 const Router = express.Router();
 
+const {getRandomQuestion, getQuestionList} = require('./controllers/questionController.js');
+
 Router.get('/', (req, res) => {
-    let question;
-if (fileController.getTotalQuestion() === 0) {
-    question = 'Không có câu hỏi hiện tại';
-    res.render('home', {
-        question,
-        visibility: 'hidden'
+    getQuestionList((err, questions) => {
+        if (err === null) {
+            if (questions.length === 0) {
+                res.render('home', {
+                    question: "Không có câu hỏi nào"
+                });
+            } else {
+                getRandomQuestion((err, question) => {
+                    res.render('home', {
+                        question: question.question,
+                        href: `api/question/${question._id}`
+                    });
+                });
+            }
+        }
     });
-} else {
-    listQuestion = fileController.getListQuestion();
-    question = listQuestion[Math.floor((Math.random() * listQuestion.length))];
-    res.render('home', {
-        question: question.question,
-        href: `api/question/${question.id}`
-    });
-}
-})
-;
+});
+
 
 module.exports = Router;

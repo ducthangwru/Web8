@@ -6,6 +6,8 @@ const homeRouter = require('./HomeRouter');
 const askRouter = require('./AskQuestionRouter');
 const utilsRouter = require('./UtilsRouter');
 const questionRouter = require('./questionRouter');
+const mongoose = require('mongoose');
+const config = require('./config.json')
 
 let app = express();
 
@@ -27,6 +29,16 @@ app.get('/File', (req, res) => {
 res.render('questions', {textRender});
 });
 
-app.listen(6969, () => {
+
+mongoose.connect(config.connectionString, (err) => {
+    if(err) {
+        console.log(err);
+    }
+    else {
+        console.log('Connect Success');
+    }
+});
+
+app.listen(config.port, () => {
     console.log('Server is ready');
 });
